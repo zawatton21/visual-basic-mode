@@ -17,7 +17,6 @@
 ;;           : Vincent Belaiche (VB1) <vincentb1@users.sourceforge.net>
 ;;                https://github.com/vincentb1
 ;;                http://www.emacswiki.org/Vincent%20Bela%c3%afche
-;; Version: 1.5 (2014-12-07)
 ;; Serial Version: %Id: 48%
 ;; Keywords: languages, basic, Evil
 ;; X-URL:  http://www.emacswiki.org/cgi-bin/wiki/visual-basic-mode.el
